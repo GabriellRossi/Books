@@ -1,0 +1,10 @@
+@import url('./assets/styles/header.css');
+
+:root {
+  --cor-de-fundo: hsla(223, 8%, 93%, 1);
+  --branco: hsla(0, 0%, 100%, 1);
+}
+
+body {
+  background-color: var(--cor-de-fundo);
+}
