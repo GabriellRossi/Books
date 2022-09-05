@@ -3,8 +3,21 @@
 :root {
   --cor-de-fundo: hsla(223, 8%, 93%, 1);
   --branco: hsla(0, 0%, 100%, 1);
+  --laranja: hsla(40, 100%, 46%, 1);
+  --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
+  --fonte-principal: 'Poppins', sans-serif;
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
 }
 
 body {
   background-color: var(--cor-de-fundo);
+  font-family: var(--fonte-principal);
+  font-size: 1.6rem;
+  font-weight: 400;
 }
