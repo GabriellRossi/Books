@@ -3,6 +3,7 @@
 @import url('./assets/styles/carrossel.css');
 @import url('./assets/styles/topicos.css');
 @import url('./assets/styles/contato.css');
+@import url('./assets/styles/rodape.css');
 
 :root {
   --cor-de-fundo: hsla(223, 8%, 93%, 1);
