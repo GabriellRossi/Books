@@ -12,6 +12,8 @@
   --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
   --azul: hsl(206, 100%, 16%);
   --preto: hsl(0, 0%, 0%);
+  --cinza: hsl(0, 1%, 28%);
+  --cinza-claro: hsl(0, 0%, 52%);
   --fonte-principal: 'Poppins', sans-serif;
   --fonte-secundaria: 'Josefin Sans', sans-serif;
 }
