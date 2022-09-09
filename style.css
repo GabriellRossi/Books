@@ -11,7 +11,9 @@
   --laranja: hsla(40, 100%, 46%, 1);
   --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
   --azul: hsl(206, 100%, 16%);
+  --preto: hsl(0, 0%, 0%);
   --fonte-principal: 'Poppins', sans-serif;
+  --fonte-secundaria: 'Josefin Sans', sans-serif;
 }
 
 html,
