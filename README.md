@@ -9,6 +9,8 @@
 
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/github/forks/GabriellRossi/barbearia-alura?label=forks&message=MIT&color=5822b4&labelColor=991eeb" alt="Forks">
 
